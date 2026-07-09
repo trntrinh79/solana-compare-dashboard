@@ -2,6 +2,8 @@
 
 A live, client-side dashboard for comparing two Solana tokens.
 
+**Live dashboard:** https://trntrinh79.github.io/solana-compare-dashboard/
+
 ## Data sources
 
 - **Jupiter Tokens API** — token metadata, holder count and holder changes, price,
