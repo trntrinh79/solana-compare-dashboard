@@ -32,3 +32,11 @@ npm run build
 ```
 
 The static site is written to `dist/` and can be deployed to any static host.
+
+## Publish updates
+
+```powershell
+npm run deploy
+```
+
+This rebuilds the dashboard and publishes it to the `gh-pages` branch.
